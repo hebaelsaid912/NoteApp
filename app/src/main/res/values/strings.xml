@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NoteAPP</string>
+    <string name="notes">Notes</string>
+    <string name="search_hint">Search in my notes</string>
+    <string name="search">Search</string>
+    <string name="add_note_text">Note Text </string>
+    <string name="add_note_title">Note Title </string>
+    <string name="add_note_sub_title">Note Sub Title </string>
+    <string name="note_date">dd/mm/yyyy , hh:mm:ss</string>
+    <string name="image_file_name">Add Image</string>
+    <string name="link_url">Add Web Link</string>
+    <string name="delete_note">Delete This Note</string>
+    <string name="web_link_url">EX: https://www.google.com/</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="storage_permission_text">This app needs access to your storage.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
